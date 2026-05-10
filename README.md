@@ -1,6 +1,8 @@
-# Data Analysis Project
+# NHANES Health Data Analysis
 
-A data analysis project using Python and SQL.
+Exploratory analysis of CDC National Health and Nutrition Examination Survey (NHANES) 
+data using Python and SQL, focusing on relationships between physical activity, 
+lifestyle factors, and chronic disease risk.
 
 **Tools:** Python, SQL, SQLite
 
@@ -8,12 +10,24 @@ A data analysis project using Python and SQL.
 
 ---
 
-## Project Structure
+## Project Goals
 
-```
-data-analysis-project/
+- Identify associations between physical activity levels and chronic disease indicators
+- Explore demographic patterns in health outcomes
+- Visualize findings in a clear, clinically meaningful way
+
+---
+
+## Data Source
+
+CDC National Health and Nutrition Examination Survey (NHANES)  
+https://wwwn.cdc.gov/nchs/nhanes/
+
+---
+
+## Project Structure
+nhanes-health-analysis/
 ├── data/
 ├── notebooks/
 ├── sql/
 └── visualizations/
-```
