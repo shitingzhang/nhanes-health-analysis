@@ -26,8 +26,11 @@ https://wwwn.cdc.gov/nchs/nhanes/
 ---
 
 ## Project Structure
+
+```
 nhanes-health-analysis/
 ├── data/
 ├── notebooks/
 ├── sql/
 └── visualizations/
+```
