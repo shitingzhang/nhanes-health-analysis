@@ -1,20 +1,20 @@
 # NHANES Health Data Analysis
 
-Exploratory analysis of CDC National Health and Nutrition Examination Survey (NHANES) 
-data using Python and SQL, focusing on relationships between physical activity, 
-lifestyle factors, and chronic disease risk.
+I'm using Python and SQL to explore NHANES data, looking at whether 
+prolonged sedentary behavior is associated with back pain and daily 
+activity limitations in adults.
 
-**Tools:** Python, SQL, SQLite
+**Tools:** Python, SQL, SQLite, Jupyter Notebook
 
-**Status:** Work in progress
+**Status:** Still work in progress
 
 ---
 
-## Project Goals
+## Research Question
 
-- Identify associations between physical activity levels and chronic disease indicators
-- Explore demographic patterns in health outcomes
-- Visualize findings in a clear, clinically meaningful way
+Is prolonged sedentary behavior associated with increased prevalence of 
+low back pain and functional activity limitations in adults, after 
+controlling for age, sex, and BMI?
 
 ---
 
@@ -23,8 +23,9 @@ lifestyle factors, and chronic disease risk.
 CDC National Health and Nutrition Examination Survey (NHANES)  
 https://wwwn.cdc.gov/nchs/nhanes/
 
-Downloaded four datasets from the 2017-2018 cycle: DEMO_J, BMX_J, GLU_J, PAQ_J. 
-Chose 2017-2018 because it's the last complete cycle before COVID disrupted data collection.
+Downloaded four datasets from the 2017-2018 cycle: DEMO_J, BMX_J, 
+PAQ_J, PFQ_J. Chose 2017-2018 because it's the last complete cycle 
+before COVID disrupted data collection.
 
 ---
 
@@ -33,6 +34,7 @@ Chose 2017-2018 because it's the last complete cycle before COVID disrupted data
 ```
 nhanes-health-analysis/
 ├── data/
+├── mappings/
 ├── notebooks/
 ├── sql/
 └── visualizations/
