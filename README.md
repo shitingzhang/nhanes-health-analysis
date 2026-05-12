@@ -23,7 +23,7 @@ lifestyle factors, and chronic disease risk.
 CDC National Health and Nutrition Examination Survey (NHANES)  
 https://wwwn.cdc.gov/nchs/nhanes/
 
-Downloaded four datasets from the 2017-2018 cycle: DEMO_J, BMX_J, GLU_J, PAQ_J.
+Downloaded four datasets from the 2017-2018 cycle: DEMO_J, BMX_J, GLU_J, PAQ_J. 
 Chose 2017-2018 because it's the last complete cycle before COVID disrupted data collection.
 
 ---
