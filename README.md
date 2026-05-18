@@ -1,8 +1,6 @@
 # NHANES Health Data Analysis
 
-I'm using Python and SQL to explore NHANES data, looking at whether 
-prolonged sedentary behavior is associated with back pain and daily 
-activity limitations in adults.
+This project uses Python and SQL to analyze NHANES data and explore functional movement difficulty among U.S. adults aged 20–65 through demographic and lifestyle indicators.
 
 **Tools:** Python, SQL, SQLite, Jupyter Notebook
 
