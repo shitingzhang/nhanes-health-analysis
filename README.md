@@ -10,7 +10,7 @@ This project uses Python and SQL to analyze NHANES data and explore functional m
 
 ## Research Question
 
-Which lifestyle and demographic factors are associated with 
+Which demographic and health factors are associated with 
 self-reported functional movement difficulty in working-age 
 U.S. adults (20–65)?
 
