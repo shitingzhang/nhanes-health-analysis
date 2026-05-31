@@ -10,9 +10,8 @@ This project uses Python and SQL to analyze NHANES data and explore functional m
 
 ## Research Question
 
-Which demographic and health factors are associated with 
-self-reported functional movement difficulty in working-age 
-U.S. adults (20–65)?
+Can demographic, lifestyle, and body composition data predict 
+functional movement difficulty in working-age U.S. adults?
 
 ---
 
