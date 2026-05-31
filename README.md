@@ -1,6 +1,9 @@
-# NHANES Health Data Analysis
+# Predicting Functional Movement Difficulty in U.S. Adults
+### A Risk Identification Framework Using NHANES 2017–2018 Data
 
-This project uses Python and SQL to analyze NHANES data and explore functional movement difficulty among U.S. adults aged 20–65 through demographic and lifestyle indicators.
+This project develops an interpretable predictive model to identify 
+adults at higher risk of functional movement difficulty using 
+demographic, lifestyle, and body composition data from NHANES 2017–2018.
 
 **Tools:** Python, SQL, SQLite, Jupyter Notebook
 
@@ -11,7 +14,10 @@ This project uses Python and SQL to analyze NHANES data and explore functional m
 ## Research Question
 
 Can demographic, lifestyle, and body composition data predict 
-functional movement difficulty in working-age U.S. adults?
+functional movement difficulty in working-age U.S. adults (20–65)?
+This project develops an interpretable logistic regression model 
+to identify individuals at higher risk of functional movement 
+difficulty using publicly available NHANES survey data.
 
 ---
 
