@@ -47,7 +47,7 @@ nhanes-health-analysis/
 - Arthritis was the strongest independent predictor of functional limitation (OR=4.88, p<0.001)
 - BMI and daily sitting time were also statistically significant predictors
 - A Functional Limitation Index (FLI) constructed from four mobility items (Cronbach's α=0.818) provided a more comprehensive outcome measure than single-item assessment
-- Adding arthritis diagnosis improved model AUC from 0.627 to 0.731, demonstrating the value of chronic condition data integration
+- Adding arthritis diagnosis improved model AUC from 0.621 to 0.731, demonstrating the value of chronic condition data integration
 - Despite improved performance, AUC=0.731 suggests key clinical variables (muscle strength, ROM, pain) remain absent from population health datasets — a core challenge for Health Informatics
 
 ## Notebooks
